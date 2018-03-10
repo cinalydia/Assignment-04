@@ -2,8 +2,10 @@
 
 var list = [
         [parseInt(2233, 10), "Hat", parseInt(12, 10), parseFloat(14.99)],
-        [parseInt(2, 10), "ProdTwo", parseInt(30, 10), parseFloat(12.59)],
-        [parseInt(3, 10), "ProdThree", parseInt(45, 10), parseFloat(19.99)]
+        [parseInt(3223, 10), "Socks", parseInt(36, 10), parseFloat(9.99)],
+        [parseInt(4824, 10), "Shirt", parseInt(10, 10), parseFloat(15.99)]
+        [parseInt(6343, 10), "Jeans", parseInt(22, 10), parseFloat(39.99)]
+        [parseInt(9382, 10), "Jacket", parseInt(5, 10), parseFloat(49.99)]
     ];
 
 
